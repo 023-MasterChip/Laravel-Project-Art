@@ -37,7 +37,7 @@
           </div>
 
           <div class="text-sm">
-            <a href="/registration" class="font-medium text-pink-600 hover:text-pink-400"> New? Register </a>
+            <a href="/registration" class="font-medium text-green-600 hover:text-green-400"> New? Register </a>
           </div>
         </div>
 
