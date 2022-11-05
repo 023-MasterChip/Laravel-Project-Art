@@ -20,7 +20,7 @@
                 <div class="flex-1 flex flex-col w-64 max-h-screen border-r border-gray-400 bg-gray-200">
                     <div class="flex-1 flex flex-col pt-5 pb-4 overflow-y-auto">
                         <div class="flex items-center flex-shrink-0 px-4">
-                            <div class="text-green-600 text-left text-3xl font-bold">Grand<br>Artland</div>
+                            <div class="text-green-600 text-left text-3xl font-bold">Infinite<br>Pixels</div>
                         </div>
                         <nav class="mt-5 flex-1" aria-label="Sidebar">
                             <div class="px-2 space-y-1">

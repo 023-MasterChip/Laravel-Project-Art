@@ -12,7 +12,7 @@
 <div class="h-screen bg-gradient-to-r from-green-100 to-green-500 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
   <div class="mt-4 sm:mx-auto sm:w-full sm:max-w-md">
     <div class="bg-white py-8 px-4 shadow-lg sm:rounded-lg sm:px-10">
-    <div class="text-green-600 text-center text-3xl font-bold" >Delano<br>Arts.</div>
+    <div class="text-green-600 text-center text-3xl font-bold" >Infinite<br>Pixels</div>
     <h2 class="mt-2 mb-4 text-center text-xl tracking-tight font-bold text-gray-400">Create your account</h2>
       <form class="space-y-6" action="{{url('post-registration')}}" method="POST">
       <input type="hidden" name="_token" value="{{ csrf_token() }}">

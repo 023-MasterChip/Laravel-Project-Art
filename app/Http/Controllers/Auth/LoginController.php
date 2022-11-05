@@ -64,10 +64,14 @@ class LoginController extends Controller
         $check = $this->create($data);
        
         $artData['data']=DB::table('arts')->orderBy('id', 'asc')->get();   
-        $userData['data']=DB::table('users')->orderBy('id', 'asc')->get();        
-        return view('welcome')
+        $userData['data']=DB::table('users')->orderBy('id', 'asc')->get();   
+        $credentials = $request->only('email', 'password');
+       
+        if (Auth::attempt($credentials)) {
+           return view('welcome')
         ->with("artData",$artData)
         ->with("userData",$userData);
+      }
     }
     public function create(array $data)
     {

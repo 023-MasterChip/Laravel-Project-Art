@@ -15,7 +15,7 @@
   <div class="hidden w-28 overflow-y-auto bg-gray-400 md:block">
     <div class="flex w-full flex-col items-center py-6">
     <div class="flex items-center flex-shrink-0 px-4">
-          <div class="text-green-600 text-left text-xl font-bold" >Delano<br>Arts.</div>
+          <div class="text-green-600 text-left text-xl font-bold" >Infinite<br>Pixels</div>
           </div>
       <div class="mt-6 w-full flex-1 space-y-1 px-2">
         <!-- Current: "bg-green-800 text-white", Default: "text-green-100 hover:bg-green-800 hover:text-white" -->

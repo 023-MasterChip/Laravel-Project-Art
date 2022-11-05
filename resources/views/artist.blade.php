@@ -15,23 +15,23 @@
   <div class="hidden w-28 overflow-y-auto bg-gray-400 md:block">
     <div class="flex w-full flex-col items-center py-6">
     <div class="flex items-center flex-shrink-0 px-4">
-          <div class="text-pink-600 text-left text-xl font-bold" >Delano<br>Arts.</div>
+          <div class="text-green-600 text-left text-xl font-bold" >Infinite<br>Pixels</div>
           </div>
       <div class="mt-6 w-full flex-1 space-y-1 px-2">
-        <!-- Current: "bg-pink-800 text-white", Default: "text-pink-100 hover:bg-pink-800 hover:text-white" -->
-        <a href="/welcome" class="text-pink-100 hover:bg-pink-800 hover:text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium">
+        <!-- Current: "bg-green-800 text-white", Default: "text-green-100 hover:bg-green-800 hover:text-white" -->
+        <a href="/welcome" class="text-green-100 hover:bg-green-800 hover:text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium">
           <!--
             Heroicon name: outline/home
 
-            Current: "text-white", Default: "text-pink-300 group-hover:text-white"
+            Current: "text-white", Default: "text-green-300 group-hover:text-white"
           -->
-          <svg class="text-pink-300 group-hover:text-white h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+          <svg class="text-green-300 group-hover:text-white h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
           </svg>
           <span class="mt-2">Home</span>
         </a>
 
-        <!-- <a href="#" class="bg-pink-800 text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium" aria-current="page">
+        <!-- <a href="#" class="bg-green-800 text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium" aria-current="page">
          
           <svg class="text-white h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 001.5-1.5V6a1.5 1.5 0 00-1.5-1.5H3.75A1.5 1.5 0 002.25 6v12a1.5 1.5 0 001.5 1.5zm10.5-11.25h.008v.008h-.008V8.25zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
@@ -39,16 +39,16 @@
           <span class="mt-2">My Artworks</span>
         </a> -->
 
-        <a href="#" class="comArt text-pink-100 hover:bg-pink-800 hover:text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="text-pink-300 group-hover:text-white h-6 w-6 mb-2">
+        <a href="#" class="comArt text-green-100 hover:bg-green-800 hover:text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="text-green-300 group-hover:text-white h-6 w-6 mb-2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10" />
           </svg>
 
           <span class="mt-2">Commission the Artist</span>
         </a>
-        <!-- <a href="#" class="text-pink-100 hover:bg-pink-800 hover:text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium">
+        <!-- <a href="#" class="text-green-100 hover:bg-green-800 hover:text-white group w-full p-3 rounded-md flex flex-col items-center text-xs font-medium">
           
-          <svg class="text-pink-300 group-hover:text-white h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+          <svg class="text-green-300 group-hover:text-white h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12a7.5 7.5 0 0015 0m-15 0a7.5 7.5 0 1115 0m-15 0H3m16.5 0H21m-1.5 0H12m-8.457 3.077l1.41-.513m14.095-5.13l1.41-.513M5.106 17.785l1.15-.964m11.49-9.642l1.149-.964M7.501 19.795l.75-1.3m7.5-12.99l.75-1.3m-6.063 16.658l.26-1.477m2.605-14.772l.26-1.477m0 17.726l-.26-1.477M10.698 4.614l-.26-1.477M16.5 19.794l-.75-1.299M7.5 4.205L12 12m6.894 5.785l-1.149-.964M6.256 7.178l-1.15-.964m15.352 8.864l-1.41-.513M4.954 9.435l-1.41-.514M12.002 12l-3.75 6.495" />
                 </svg>
           <span class="mt-2">Settings</span>
@@ -72,7 +72,7 @@
                           <p class="text-sm font-medium text-gray-900">{{ session()->get('message') }}!</p>
                         </div>
                         <div class="ml-4 flex flex-shrink-0">
-                          <button type="button" class=" alertClose inline-flex rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">
+                          <button type="button" class=" alertClose inline-flex rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">
                             <span class="sr-only">Close</span>
                             <!-- Heroicon name: mini/x-mark -->
                             <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -102,7 +102,7 @@
                           <p class="text-sm font-medium text-gray-900">{{ session()->get('error') }}!</p>
                         </div>
                         <div class="ml-4 flex flex-shrink-0">
-                          <button type="button" class=" alertClose inline-flex rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">
+                          <button type="button" class=" alertClose inline-flex rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">
                             <span class="sr-only">Close</span>
                             <!-- Heroicon name: mini/x-mark -->
                             <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -127,7 +127,7 @@
                 <div class="flex min-h-full items-end justify-center p-4 text-center sm:items-center sm:p-0">
                   <div class="relative transform overflow-hidden rounded-lg bg-white px-4 pt-5 pb-4 text-left shadow-xl transition-all sm:my-8 sm:w-full sm:max-w-sm sm:p-6">
                   <div class="closeButton absolute top-0 right-0 hidden pt-4 pr-4 sm:block">
-                      <button type="button" class="rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">
+                      <button type="button" class="rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">
                         <span class="sr-only">Close</span>
                         <!-- Heroicon name: outline/x-mark -->
                         <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -136,23 +136,23 @@
                       </button>
                     </div>
                   <div>
-                  <h2 class="text-lg font-medium text-pink-900">Commission the Artist</h2>
+                  <h2 class="text-lg font-medium text-green-900">Commission the Artist</h2>
                       <form class="py-6" action="{{url('sendmail')}}" method="POST">
                       <input type="hidden" name="_token" value="{{ csrf_token() }}">
                       <input type='hidden' value="{{ $artist->email }}" name='artistEmail'>
                     <div class="flex flex-col">
                         <label for="title" class="block text-sm font-medium text-gray-700">Enter Title:</label>
                         <div class="mt-1">
-                          <input type="text" name="title" id="title" class="block w-80 h-10 rounded-md border border-gray-300 shadow-sm focus:border-pink-500 focus:ring-pink-500 sm:text-sm" placeholder="">
+                          <input type="text" name="title" id="title" class="block w-80 h-10 rounded-md border border-gray-300 shadow-sm focus:border-green-500 focus:ring-green-500 sm:text-sm" placeholder="">
                         </div>
                         <label for="name" class="mt-4 block text-sm font-medium text-gray-700">Enter Art Description:</label>
                         <div class="mt-1">
-                        <textarea id="description" name="description" rows="3" class="block w-full max-w-lg rounded-md border-gray-300 shadow-sm focus:border-pink-500 focus:ring-pink-500 sm:text-sm"></textarea>
+                        <textarea id="description" name="description" rows="3" class="block w-full max-w-lg rounded-md border-gray-300 shadow-sm focus:border-green-500 focus:ring-green-500 sm:text-sm"></textarea>
                         </div>
                       </div>
                     </div>
                     <div class="mt-5 sm:mt-6">
-                      <button type="submit" name="submit" class="inline-flex w-full justify-center rounded-md border border-transparent bg-pink-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2 sm:text-sm">Send Commission</button>
+                      <button type="submit" name="submit" class="inline-flex w-full justify-center rounded-md border border-transparent bg-green-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 sm:text-sm">Send Commission</button>
                     </div>
                   </form>
                   </div>
@@ -207,7 +207,7 @@
       <div class="sidebar">
       <aside class="w-96 overflow-y-auto border-l border-gray-200 bg-white p-8 lg:block">
       <div class="closeB absolute top-0 right-0 pt-2 pr-2 sm:block">
-          <button type="button" class="rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">
+          <button type="button" class="rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">
             <span class="sr-only">Close</span>
             <!-- Heroicon name: outline/x-mark -->
             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -250,8 +250,8 @@
               </div>
 
               <div class="flex justify-center py-3 text-sm font-medium">
-              <a download="art" href="{{ Storage::url('upload/' . session('artimage')) }}" title="art"><button type="button" class="inline-flex items-center rounded-full border border-transparent bg-pink-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">Download</button></a>
-              <!-- <button type="button" class="inline-flex items-center rounded-full border border-transparent bg-pink-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">Delete</button> -->
+              <a download="art" href="{{ Storage::url('upload/' . session('artimage')) }}" title="art"><button type="button" class="inline-flex items-center rounded-full border border-transparent bg-green-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">Download</button></a>
+              <!-- <button type="button" class="inline-flex items-center rounded-full border border-transparent bg-green-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">Delete</button> -->
               </div>
 
             </dl>
@@ -260,7 +260,7 @@
             <h3 class="font-medium text-gray-900">Description</h3>
             <div class="mt-2 flex items-center justify-between">
               <p class="text-sm italic text-gray-500">Add a description to this image.</p>
-              <button type="button" class="flex h-8 w-8 items-center justify-center rounded-full bg-white text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-pink-500">
+              <button type="button" class="flex h-8 w-8 items-center justify-center rounded-full bg-white text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-green-500">
                
                 <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                   <path d="M2.695 14.763l-1.262 3.154a.5.5 0 00.65.65l3.155-1.262a4 4 0 001.343-.885L17.5 5.5a2.121 2.121 0 00-3-3L3.58 13.42a4 4 0 00-.885 1.343z" />
@@ -270,7 +270,7 @@
             </div>
           </div> -->
           <!-- <div class="flex">
-            <button type="button" class="flex-1 rounded-md border border-transparent bg-pink-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2">Contact</button>
+            <button type="button" class="flex-1 rounded-md border border-transparent bg-green-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">Contact</button>
           </div> -->
         </div>
       </aside>
@@ -295,8 +295,8 @@
             });
 
             $('.imgRing').on('click', function(e){
-            $('.artImage').removeClass('artImage ring-2 ring-offset-2 ring-pink-500'); 
-            $("#" + $(this).attr("id")).addClass('artImage ring-2 ring-offset-2 ring-pink-500');
+            $('.artImage').removeClass('artImage ring-2 ring-offset-2 ring-green-500'); 
+            $("#" + $(this).attr("id")).addClass('artImage ring-2 ring-offset-2 ring-green-500');
             });
 
             $('#fileupload').change(function() {
